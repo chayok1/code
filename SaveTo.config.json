@@ -1,0 +1,17 @@
+{
+    "data": {
+        "folders": [
+            {
+                "path": "C:\\Users\\matve\\Desktop\\Новая папка (2)",
+                "name": "Новая папка (2)",
+                "position": 0
+            }
+        ]
+    },
+    "settings": {
+        "fileNameType": "date",
+        "sortMode": "z-a",
+        "displayUpdateNotes": true,
+        "dropdownOnTop": true
+    }
+}
